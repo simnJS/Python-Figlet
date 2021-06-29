@@ -27,7 +27,7 @@ print(Fore.MAGENTA+"""\n\n
 print(Fore.RED+ """
                                                              par simnJS | by simnJS\n\n\n""")
 
-print(Fore.MAGENTA+ "Polices d'écritures disponible : block, random, rnd-small, rnd-medium, italic, ghost, defauld, big.\n\n")
+print(Fore.MAGENTA+ "Polices d'écritures disponible : block, random, rnd-small, rnd-medium, italic, ghost, defauld, big. Plus de police : https://github.com/sepandhaghighi/art/blob/master/FontList.ipynb\n\n")
 font = input(Fore.GREEN + "Entrez une police d'écriture depuis la liste ce dessus :  > ")
 text = input(Fore.GREEN + "Entrez le texte que vous souhaiter :  > ")
 
